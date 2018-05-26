@@ -19,10 +19,11 @@
 
 1. JAVA编程思想，by Bruce Eckel，2016年9月
 1. MySQL技术内幕，by 姜承尧，2016年10月
-1. 黑客与画家，by Paul Graham著，阮一峰译，2017年1月
+1. 黑客与画家，by Paul Graham，阮一峰译，2017年1月
 1. 数学之美，by 吴军，2017年3月
-1. 计算的本质：深入剖析程序和计算机，by Tom Stuart，张伟译，2018年5月
+1. 计算的本质：深入剖析程序和计算机，by Tom Stuart，张伟译，2018年4月
 1. Docker开发实践，by 曾金龙、肖新华、刘清，2018年5月
+1. SpringBoot实战，by Craig walls，丁雪丰译2018年5月
 
 
 ## 传记
